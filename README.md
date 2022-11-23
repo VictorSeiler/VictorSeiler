@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VictorSeiler, I'am an engineering student working on a project of a mini video games, and I need to learn Django to upload it on the web
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Django & Pyton
+- 📫 How to reach me : victor.seiler02@gmail.com
